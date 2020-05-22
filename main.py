@@ -11,8 +11,3 @@ print(myfun())
 
 
 # In[ ]:
-
-
-
-
-print("Hey Every One")
