@@ -3,6 +3,5 @@
 #Sequential
 def myfun():
     percentage=0.95
-    name="bharat"
     return percentage
 print(myfun())
