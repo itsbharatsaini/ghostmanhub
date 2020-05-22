@@ -2,6 +2,7 @@
 # coding: utf-8
 
 # In[2]:
+#Sequential
 
 
 def myfun():
