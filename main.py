@@ -56,7 +56,7 @@ def save_model(model):
     print('final model is saved with "mnist.model" filename. ')
 
 if __name__ == "__main__":
-    no_of_input_neuron=no_of_pixel
+    no_of_input_neuron=5
     model = create_model(no_of_input_neuron)
     accuracy = get_accuracy(model)
     save_model(model)
